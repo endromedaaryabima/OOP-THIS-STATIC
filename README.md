@@ -1,1 +1,0 @@
-# OOP-THIS-STATIC
